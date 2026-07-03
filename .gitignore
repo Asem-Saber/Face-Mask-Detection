@@ -1,0 +1,9 @@
+dataset/ 
+InferenceResults/ 
+test_videos/ 
+TrainingResults/ 
+val_metrics/
+face-mask-detection-dataset.ipynb
+face-mask-detection-training.ipynb
+mask-detection-inference.ipynb
+*.pt
