@@ -1,4 +1,4 @@
-path: f:\Career\ObjectDetectionYOLO\Face_Mask_Detection\dataset
+path: F:\Career\Projects\Face_Mask_Detection\dataset
 train: train/images
 val: valid/images
 test: test/images

@@ -7,3 +7,6 @@ face-mask-detection-dataset.ipynb
 face-mask-detection-training.ipynb
 mask-detection-inference.ipynb
 *.pt
+*.pth
+__pycache__
+venv
