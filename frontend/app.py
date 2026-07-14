@@ -8,7 +8,7 @@ from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 import os
 import tempfile
 
-BACKEND_URL = os.getenv("BACKEND_URL", "http://backend:8000")
+BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8000")
 
 st.set_page_config(page_title="Face Mask Detection", layout="wide")
 st.title("Face Mask Detection")
